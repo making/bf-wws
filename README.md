@@ -1,5 +1,5 @@
 # bf-wws
-Brainfu*ck on Wasm Workers Server 🤯
+Brainf*ck on Wasm Workers Server 🤯
 
 Install [bfc](https://github.com/making/bfc)
 
